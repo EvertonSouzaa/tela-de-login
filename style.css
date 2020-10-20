@@ -1,0 +1,13 @@
+.formulario table {
+  width: 100%;
+  border: 1px;
+  height: 0px;
+}
+
+.formulario table td tr {
+  height: 13px;
+}
+
+.formulario p {
+  text-align: center;
+}
